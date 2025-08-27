@@ -1,1 +1,1 @@
-- https://www.amazon.com/gp/product/B01DLHKMO2
+- [HiLetgo ADS1115 16 Bit 16 Byte 4 Channel I2C IIC Analog-to-Digital ADC PGA Converter with Programmable Gain Amplifier High Precision ADC Converter Development Board for Arduino Raspberry Pi](https://www.amazon.com/gp/product/B01DLHKMO2)
