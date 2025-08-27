@@ -1,0 +1,2 @@
+- [16 Bit I2C ADS1115 ADS1015 Module ADC 4 channel with Pro Gain Amplifier 2.0V to 5.5V for Arduino RPi](https://www.aliexpress.us/item/2255800981608540.html)
+- [16 Bit I2C ADS1115 ADS1015 Module ADC 4 channel with Pro Gain Amplifier 2.0V to 5.5V for Arduino RPi](https://www.aliexpress.us/item/3256808907213270.html)
