@@ -3,6 +3,7 @@
 
 ## Bulk:
 - [1-10pcs I2C ADS1115 16 Bit ADC 4 channel Module with Programmable Gain Amplifier RPi Blue Board](https://www.aliexpress.us/item/3256806909635978.html)
+- [1 - 10PCS ADS1115 ADC Analog to Digital Converter Module with Programmable Gain Amplifier 16 Bit I2C 2.0V To 5.5V for Arduino RP](https://www.aliexpress.us/item/3256807442377637.html)
 
 # Costly Shipping:
 - **$1.25** [16 Bit I2C ADS1115 ADS1015 Module ADC 4 channel with Pro Gain Amplifier 2.0V to 5.5V for Arduino RPi](https://www.aliexpress.us/item/2255800981608540.html)
